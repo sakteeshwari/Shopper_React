@@ -24,7 +24,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className='navbar'>
+    <div className='navbar '>
       <div className='nav-logo '>
       <img src={logo}></img>
       <p className=''>SHOPPER</p>

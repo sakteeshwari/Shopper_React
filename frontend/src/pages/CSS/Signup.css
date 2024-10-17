@@ -1,0 +1,9 @@
+.loginsignup-agree {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap: 20px;
+    color: #7730aa;
+    font-size: 15px;
+    font-weight: 500;
+}

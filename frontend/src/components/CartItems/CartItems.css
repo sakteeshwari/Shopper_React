@@ -129,3 +129,22 @@
     }
 }
 
+@media (max-width:600px) {
+    .cartitems-promobox{
+        width: 200px;
+        position: relative;
+        height: 40px;
+    }
+    .cartitems-promobox button{
+        
+        width: 80px;
+        position: absolute;
+        top: 0px;
+        left: 200px;
+        padding-top: 10px;
+        padding-left: 12px;
+        height: 40px;
+        
+    }
+}
+

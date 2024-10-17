@@ -109,6 +109,10 @@
         margin-top: 40px;
         margin-left: 10px;
     }
+    
+    .productdisplay-right-sizes div{ 
+        padding: 12px 18px;
+    }
 }
 
 @media (max-width:600px) {
